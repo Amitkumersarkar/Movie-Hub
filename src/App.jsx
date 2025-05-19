@@ -1,12 +1,19 @@
 import './App.css'
-import Movies from './components/Header/Movies'
+import Footer from './components/Footer/Footer'
+import Navbar from './components/Header/Navbar'
+import Movies from './components/Movies/Movies'
 
 function App() {
 
   return (
-    <>
-      <Movies></Movies>
-    </>
+    <div className='w-11/12 mx-auto p-5'>
+      <Navbar></Navbar>
+      <div >
+        <Movies></Movies>
+      </div>
+      <Footer></Footer>
+    </div>
+
   )
 }
 
