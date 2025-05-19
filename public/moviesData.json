@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "title": "Inception",
+        "year": 2010,
+        "genre": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "rating": 8.8,
+        "director": "Christopher Nolan",
+        "image": "https://m.media-amazon.com/images/I/51oDcn9R9FL._AC_.jpg"
+    },
+    {
+        "id": 2,
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "genre": [
+            "Drama"
+        ],
+        "rating": 9.3,
+        "director": "Frank Darabont",
+        "image": "https://m.media-amazon.com/images/I/51NiGlapXlL._AC_.jpg"
+    },
+    {
+        "id": 3,
+        "title": "The Godfather",
+        "year": 1972,
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "rating": 9.2,
+        "director": "Francis Ford Coppola",
+        "image": "https://m.media-amazon.com/images/I/41+eK8zBwQL._AC_.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "rating": 8.9,
+        "director": "Quentin Tarantino",
+        "image": "https://m.media-amazon.com/images/I/51k0qa6zY-L._AC_.jpg"
+    },
+    {
+        "id": 5,
+        "title": "The Dark Knight",
+        "year": 2008,
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "rating": 9.0,
+        "director": "Christopher Nolan",
+        "image": "https://m.media-amazon.com/images/I/51EbJjlLg9L._AC_.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Forrest Gump",
+        "year": 1994,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "rating": 8.8,
+        "director": "Robert Zemeckis",
+        "image": "https://m.media-amazon.com/images/I/41cN5EiozVL._AC_.jpg"
+    },
+    {
+        "id": 7,
+        "title": "The Matrix",
+        "year": 1999,
+        "genre": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "rating": 8.7,
+        "director": "The Wachowskis",
+        "image": "https://m.media-amazon.com/images/I/51vpnbwFHrL._AC_.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Fight Club",
+        "year": 1999,
+        "genre": [
+            "Drama"
+        ],
+        "rating": 8.8,
+        "director": "David Fincher",
+        "image": "https://m.media-amazon.com/images/I/51v5ZpFyaFL._AC_.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Interstellar",
+        "year": 2014,
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "rating": 8.6,
+        "director": "Christopher Nolan",
+        "image": "https://m.media-amazon.com/images/I/71n58Y+jYaL._AC_SL1024_.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Parasite",
+        "year": 2019,
+        "genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "rating": 8.5,
+        "director": "Bong Joon Ho",
+        "image": "https://m.media-amazon.com/images/I/91n4oP3vOeL._AC_SL1500_.jpg"
+    }
+]
