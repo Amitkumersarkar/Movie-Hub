@@ -1,4 +1,4 @@
-const Movie = ({ movie }) => {
+const Movie = ({ movie, handleWatchMovie }) => {
     const { title, director, image, rating, year, genre } = movie;
 
     return (
@@ -16,6 +16,7 @@ const Movie = ({ movie }) => {
                 <p>Genre: {genre}</p>
                 <p>Year: {year}</p>
                 <p>Rating: {rating}</p>
+                <button onClick={() =>handleWatchMovie(movie)} className="btn bg-blue-600 btn-ghost mt-3">Watch Now</button>
             </div>
         </div>
     );
