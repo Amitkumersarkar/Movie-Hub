@@ -10,7 +10,7 @@
         ],
         "rating": 8.8,
         "director": "Christopher Nolan",
-        "image": "https://m.media-amazon.com/images/I/51oDcn9R9FL._AC_.jpg"
+        "image": "https://img.freepik.com/free-photo/dark-fantasy-scene_23-2151136151.jpg?uid=R200354969&ga=GA1.1.177865719.1729998057&semt=ais_hybrid&w=740"
     },
     {
         "id": 2,
@@ -45,7 +45,7 @@
         ],
         "rating": 8.9,
         "director": "Quentin Tarantino",
-        "image": "https://m.media-amazon.com/images/I/51k0qa6zY-L._AC_.jpg"
+        "image": "https://img.freepik.com/free-vector/vector-poster-illustration_225004-1097.jpg?uid=R200354969&ga=GA1.1.177865719.1729998057&semt=ais_hybrid&w=740"
     },
     {
         "id": 5,
@@ -58,7 +58,7 @@
         ],
         "rating": 9.0,
         "director": "Christopher Nolan",
-        "image": "https://m.media-amazon.com/images/I/51EbJjlLg9L._AC_.jpg"
+        "image": "https://img.freepik.com/free-photo/neoclassical-medieval-portrait-knight-illustration_23-2151891945.jpg?uid=R200354969&ga=GA1.1.177865719.1729998057&semt=ais_hybrid&w=740"
     },
     {
         "id": 6,
@@ -70,7 +70,7 @@
         ],
         "rating": 8.8,
         "director": "Robert Zemeckis",
-        "image": "https://m.media-amazon.com/images/I/41cN5EiozVL._AC_.jpg"
+        "image": "https://img.freepik.com/free-photo/upsidedown-boat-ground-covered-grass-side-lake_181624-45826.jpg?uid=R200354969&ga=GA1.1.177865719.1729998057&semt=ais_hybrid&w=740"
     },
     {
         "id": 7,
@@ -94,30 +94,5 @@
         "rating": 8.8,
         "director": "David Fincher",
         "image": "https://m.media-amazon.com/images/I/51v5ZpFyaFL._AC_.jpg"
-    },
-    {
-        "id": 9,
-        "title": "Interstellar",
-        "year": 2014,
-        "genre": [
-            "Adventure",
-            "Drama",
-            "Sci-Fi"
-        ],
-        "rating": 8.6,
-        "director": "Christopher Nolan",
-        "image": "https://m.media-amazon.com/images/I/71n58Y+jYaL._AC_SL1024_.jpg"
-    },
-    {
-        "id": 10,
-        "title": "Parasite",
-        "year": 2019,
-        "genre": [
-            "Drama",
-            "Thriller"
-        ],
-        "rating": 8.5,
-        "director": "Bong Joon Ho",
-        "image": "https://m.media-amazon.com/images/I/91n4oP3vOeL._AC_SL1500_.jpg"
     }
 ]
